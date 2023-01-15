@@ -1,0 +1,5 @@
+data/
+.vscode
+web/venv
+web/pycache
+web/frontend/node_modules
